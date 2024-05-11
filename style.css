@@ -334,7 +334,7 @@ section{
 }
 
 .footer {
-    background: url(images/backGround.png) no-repeat;
+    background: url(backGround.png) no-repeat;
     background-size: cover;
     background-position: center center;
 }
